@@ -1,16 +1,22 @@
-**👋 Hey there! I'm Alirio J. Peña LaCruz**
+<h1 align="center">Hi 👋, I'm Alirio Pena LaCruz</h1>
+<h3 align="center">Passionate about Human Resources and Analytics</h3>
 
-🔭 I’m currently working on: (Insert your BI analysis project here!)
-🌱 I’m currently learning: Advanced SQL for data manipulation, business intelligence reporting, and automation.
+- 🔭 I’m currently working on **a BI analysis**
 
-👯 I’m looking to collaborate on: Projects involving data analytics, business intelligence, and process optimization.
+- 🌱 I’m currently learning **Advanced SQL for data manipulation, business intelligence reporting, and automation.**
 
-🤔 I’m looking for help with: Expanding my network in data analytics, HR analytics, and business intelligence.
+- 👯 I’m looking to **collaborate on Projects involving data analytics, business intelligence, and process optimization.**
 
-💬 Ask me about: Data visualization, dashboard design, and workflow automation.
+- 🤝 I’m looking for help with **expanding my network in data analytics, HR analytics, and business intelligence.**
 
-📫 How to reach me: You can connect with me via email at ajplc2024@gmail.com or on LinkedIn (Insert your LinkedIn link here!).
+- 💬 Ask me about **Data visualization, dashboard design, and workflow automation**
 
-😄 Fun fact: I’m into powerlifting, running, and building intricate LEGO sets—I love the balance of structure and creativity!
+- 📫 How to reach me **AJPLC2024@gmail.com**
 
-Let’s connect and build something great! 🚀
+- 📄 Know about my experiences [https://docs.google.com/document/d/14ZCK3OnrlSca16gO42D0ijqwPcLnuirc8JFzKT6Zo7E/edit?usp=sharing](https://docs.google.com/document/d/14ZCK3OnrlSca16gO42D0ijqwPcLnuirc8JFzKT6Zo7E/edit?usp=sharing)
+
+- ⚡ Fun fact **I’m into powerlifting, running, and building intricate LEGO sets—I love the balance of structure and creativity!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
