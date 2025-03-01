@@ -1,7 +1,6 @@
 **👋 Hey there! I'm Alirio J. Peña LaCruz**
 
 🔭 I’m currently working on: (Insert your BI analysis project here!)
-
 🌱 I’m currently learning: Advanced SQL for data manipulation, business intelligence reporting, and automation.
 
 👯 I’m looking to collaborate on: Projects involving data analytics, business intelligence, and process optimization.
